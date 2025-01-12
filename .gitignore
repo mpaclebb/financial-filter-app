@@ -1,0 +1,11 @@
+# Ignore Node modules
+frontend/node_modules
+
+# Ignore Parcel cache
+frontend/.parcel-cache
+
+# Ignore build artifacts
+frontend/dist
+
+# Ignore environment variables
+.env
