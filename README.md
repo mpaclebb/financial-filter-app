@@ -40,3 +40,15 @@ A React-based web application that fetches and displays annual income statements
 git clone https://github.com/your-username/financial-data-filtering-app.git
 cd financial-data-filtering-app
 ```
+
+_FRONTEND implementation_
+
+cd frontend
+
+npm install to install dependencies
+
+create .env file in front end directory to store API key:REACT_APP_API_KEY=your_api_key_here
+
+start react- npm start
+
+The frontend will be accessible at http://localhost:3000
