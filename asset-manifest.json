@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/financial-filter-app/static/css/main.a7edec83.css",
+    "main.js": "/financial-filter-app/static/js/main.472eba14.js",
+    "index.html": "/financial-filter-app/index.html",
+    "main.a7edec83.css.map": "/financial-filter-app/static/css/main.a7edec83.css.map",
+    "main.472eba14.js.map": "/financial-filter-app/static/js/main.472eba14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7edec83.css",
+    "static/js/main.472eba14.js"
+  ]
+}
